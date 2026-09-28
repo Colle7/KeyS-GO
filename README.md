@@ -1,2 +1,32 @@
 # KeyS-GO
-un app che permette di acquistare chiavi di giochi a prezzi bassi
+ 
+ 1)importanza
+ cercare giochi
+ comprare giochi
+ comprare pacchetti di giochi random
+ vendere giochi
+ dopo 10 giochi comprati uno gratis
+ cercare vari prezzi dei giochi
+ comparare i prezzi
+ asta dei giochi
+ vedere recensioni
+ scrivere recensioni
+ comparare le recensioni
+ registrarsi
+ comprare l abbonamento per maggiori sconti
+ comprare i giochi ti da dei punti che puoi usarli per comprare altri giochi solo con abbonamento
+ clasificare i top giochi
+ classificare i giochi per categoria 
+ classificare i giochi per prezzo
+ clasificare i giochi per valutazione
+ guardare notizie sui giochi
+ aprire il menu
+ cliccare una sezion del menu
+ 
+ 
+
+
+
+
+
+
