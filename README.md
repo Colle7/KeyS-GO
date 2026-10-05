@@ -62,6 +62,22 @@ di dominio :
 L'abbonamento permette di ottenere maggiori sconti.
 rispetto della privacy
 
+**SWOT analisi**
+
+
+stength :
+
+comprare i giochi a basso costo
+coloro che vogliono comprare giochi ma non hanno budget
+
+weakness : 
+mancanza di risorse
+
+opportunities : 
+mercato dinamico
+
+treath : 
+i competitor sono piu famosi e hanno piu risorse
  
 
 
