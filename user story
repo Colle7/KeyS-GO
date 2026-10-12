@@ -1,22 +1,155 @@
 #	Funzionalità	User Story
-1	Cercare giochi	Come utente A, voglio cercare i giochi disponibili, così da potermi informare sui giochi che mi interessano.
-2	Comprare giochi	Come utente A, voglio comprare giochi, così da poterli giocare.
-3	Comprare pacchetti random	Come utente A, voglio comprare pacchetti di giochi random, così da tentare la sorte e ottenere giochi a sorpresa.
+1
+Cercare giochi	Come utente A, voglio cercare i giochi disponibili, così da potermi informare sui giochi che mi interessano.
+2
+Comprare giochi	Come utente A, voglio comprare giochi, così da poterli giocare.
+3
+Comprare pacchetti random	Come utente A, voglio comprare pacchetti di giochi random, così da tentare la sorte e ottenere giochi a sorpresa.
 4	
-5	Gioco gratis dopo 10 acquisti	Come utente A, ricevi uno sconto
-6	Cercare prezzi	Come utente A, voglio cercare e visualizzare i prezzi dei giochi, così da poter scegliere l'offerta più conveniente.
-7	Comparare prezzi d'asta	Come utente A, voglio confrontare i prezzi dei giochi nelle aste, così da poter fare l'offerta migliore.
-8	Vedere recensioni	Come utente A, voglio leggere le recensioni dei giochi, così da poter valutare se acquistare un gioco.
-9	Scrivere recensioni	Come utente A, voglio scrivere una recensione dopo aver giocato a un gioco, così da condividere la mia opinione con altri utenti.
-10	Comparare recensioni	Come utente A, voglio confrontare le recensioni dei giochi, così da poter scegliere quello con le valutazioni migliori.
-11	Registrazione	Come utente, voglio registrarmi alla piattaforma, così da poter utilizzare tutte le funzionalità disponibili.
-12	Abbonamento	Come utente A, voglio acquistare un abbonamento, così da ottenere maggiori sconti sui giochi.
-13	Sistema di punti	Come utente A, voglio ottenere punti acquistando giochi, così da poterli utilizzare per acquistare altri giochi.
-14	Utilizzare punti con abbonamento	Come utente A abbonato, voglio utilizzare i punti accumulati per acquistare altri giochi, così da risparmiare sui miei acquisti.
-15	Classifica top giochi	Come utente A, voglio visualizzare i giochi più popolari, così da scoprire quali sono i giochi più apprezzati.
-16	Classificare per categoria	Come utente A, voglio filtrare e classificare i giochi per categoria, così da trovare più facilmente il tipo di gioco che cerco.
-17	Classificare per prezzo	Come utente A, voglio ordinare i giochi in base al prezzo, così da trovare quelli più economici o quelli più costosi.
-18	Classificare per valutazione	Come utente A, voglio ordinare i giochi in base alla valutazione, così da trovare quelli con le recensioni migliori.
-19	Leggere notizie	Come utente A, voglio leggere le notizie sui giochi, così da rimanere aggiornato sulle novità del mondo videoludico.
-20	Aprire menu	Come utente, voglio aprire il menu principale, così da poter accedere alle diverse sezioni della piattaforma.
-21	Selezionare una sezione del menu	Come utente, voglio cliccare su una sezione del menu, così da accedere rapidamente alla funzionalità che mi interessa.
+5
+sconto dopo 10 acquisti	Come utente A, ricevi uno sconto
+6	
+Cercare prezzi	Come utente A, voglio cercare e visualizzare i prezzi dei giochi, così da poter scegliere l'offerta più conveniente.
+7
+Comparare prezzi d'asta	Come utente A, voglio confrontare i prezzi dei giochi nelle aste, così da poter fare l'offerta migliore.
+8	
+Vedere recensioni	Come utente A, voglio leggere le recensioni dei giochi, così da poter valutare se acquistare un gioco.
+9
+Scrivere recensioni	Come utente A, voglio scrivere una recensione dopo aver giocato a un gioco, così da condividere la mia opinione con altri utenti.
+10
+Comparare recensioni	Come utente A, voglio confrontare le recensioni dei giochi, così da poter scegliere quello con le valutazioni migliori.
+11
+Registrazione	Come utente, voglio registrarmi alla piattaforma, così da poter utilizzare tutte le funzionalità disponibili.
+12
+Abbonamento	Come utente A, voglio acquistare un abbonamento, così da ottenere maggiori sconti sui giochi.
+13
+Sistema di punti	Come utente A, voglio ottenere punti acquistando giochi, così da poterli utilizzare per acquistare altri giochi.
+14
+Utilizzare punti con abbonamento	Come utente A abbonato, voglio utilizzare i punti accumulati per acquistare altri giochi, così da risparmiare sui miei acquisti.
+15
+Classifica top giochi	Come utente A, voglio visualizzare i giochi più popolari, così da scoprire quali sono i giochi più apprezzati.
+16
+Classificare per categoria	Come utente A, voglio filtrare e classificare i giochi per categoria, così da trovare più facilmente il tipo di gioco che cerco.
+17
+Classificare per prezzo	Come utente A, voglio ordinare i giochi in base al prezzo, così da trovare quelli più economici o quelli più costosi.
+18
+Classificare per valutazione	Come utente A, voglio ordinare i giochi in base alla valutazione, così da trovare quelli con le recensioni migliori.
+19
+Leggere notizie	Come utente A, voglio leggere le notizie sui giochi, così da rimanere aggiornato sulle novità del mondo videoludico.
+20
+Aprire menu	Come utente, voglio aprire il menu principale, così da poter accedere alle diverse sezioni della piattaforma.
+21
+Selezionare una sezione del menu	Come utente, voglio cliccare su una sezione del menu, così da accedere rapidamente alla funzionalità che mi interessa.
+22
+Confrontare prezzi tra negozi
+Come utente A, voglio confrontare i prezzi dello stesso gioco su diversi negozi, così da acquistarlo al prezzo più conveniente.
+23
+Visualizzare lo storico dei prezzi
+Come utente A, voglio visualizzare lo storico dei prezzi di un gioco, così da capire se il prezzo attuale è conveniente.
+24
+Ricevere notifiche sui ribassi
+Come utente A, voglio ricevere una notifica quando il prezzo di un gioco diminuisce, così da acquistarlo al momento giusto.
+25
+Creare una lista dei desideri
+Come utente A, voglio aggiungere giochi a una lista dei desideri, così da ritrovarli facilmente in futuro.
+26
+Impostare un prezzo obiettivo
+Come utente A, voglio impostare un prezzo massimo per un gioco, così da essere avvisato quando raggiunge il prezzo desiderato.
+27
+Visualizzare le offerte del giorno
+Come utente A, voglio visualizzare le migliori offerte del giorno, così da trovare giochi scontati.
+28
+Filtrare per piattaforma
+Come utente A, voglio filtrare i giochi per piattaforma (PC, PlayStation, Xbox o Nintendo), così da trovare quelli compatibili con il mio dispositivo.
+29
+Filtrare per negozio
+Come utente A, voglio filtrare le offerte in base al negozio, così da acquistare da rivenditori che preferisco.
+30
+Verificare la compatibilità regionale
+Come utente A, voglio sapere in quali regioni è attivabile una chiave di gioco, così da evitare acquisti non utilizzabili nel mio Paese.
+31
+Verificare l'affidabilità del negozio
+Come utente A, voglio visualizzare le valutazioni e l'affidabilità dei rivenditori, così da scegliere dove acquistare in sicurezza.
+32
+Visualizzare il tipo di venditore
+Come utente A, voglio sapere se un'offerta proviene da un negozio ufficiale o da un marketplace, così da valutare meglio il rischio dell'acquisto.
+33
+Visualizzare i requisiti di sistema
+Come utente A, voglio consultare i requisiti minimi e consigliati di un gioco, così da verificare se il mio computer può eseguirlo.
+34
+Confrontare le edizioni di un gioco
+Come utente A, voglio confrontare le edizioni standard, deluxe e complete di un gioco, così da scegliere quella più adatta alle mie esigenze.
+35
+Visualizzare i contenuti inclusi
+Come utente A, voglio sapere quali DLC ed espansioni sono inclusi in un'offerta, così da conoscere esattamente cosa sto acquistando.
+36
+Cercare giochi simili
+Come utente A, voglio visualizzare giochi simili a quello selezionato, così da scoprire alternative interessanti.
+37
+Visualizzare giochi in uscita
+Come utente A, voglio consultare il calendario delle prossime uscite, così da conoscere i giochi in arrivo.
+38
+Gestire il profilo personale
+Come utente A, voglio modificare i dati del mio profilo, così da mantenere aggiornate le informazioni del mio account.
+39
+Visualizzare la cronologia degli acquisti
+Come utente A, voglio visualizzare i miei acquisti precedenti, così da ritrovare i giochi acquistati.
+40
+Gestire le recensioni personali
+Come utente A, voglio modificare o eliminare le recensioni che ho scritto, così da aggiornare la mia opinione.
+41
+Condividere un gioco
+Come utente A, voglio condividere il link di un gioco o di un'offerta, così da consigliarlo ad altri utenti.
+42
+Segnalare un'offerta non valida
+Come utente A, voglio segnalare un prezzo errato o un'offerta non più disponibile, così da contribuire all'aggiornamento delle informazioni.
+43
+Visualizzare il prezzo finale
+Come utente A, voglio visualizzare il prezzo finale comprensivo di eventuali commissioni e imposte applicabili, così da conoscere il costo effettivo.
+44
+Confrontare prezzi con valuta
+Come utente A, voglio visualizzare i prezzi nella mia valuta, così da confrontare più facilmente le offerte.
+45
+Accedere tramite account social
+Come utente A, voglio registrarmi o accedere tramite un account esterno supportato, così da velocizzare l'accesso alla piattaforma.
+46
+Recuperare la password
+Come utente A, voglio recuperare la password dimenticata, così da poter accedere nuovamente al mio account.
+47
+Contattare l'assistenza
+Come utente A, voglio contattare il servizio di assistenza, così da ricevere aiuto in caso di problemi.
+48
+Segnalare problemi con un acquisto
+Come utente A, voglio segnalare problemi relativi a una chiave acquistata, così da ricevere supporto per la risoluzione del problema.
+49
+Ricevere una newsletter
+Come utente A, voglio iscrivermi a una newsletter con offerte e novità, così da rimanere aggiornato sui giochi che mi interessano.
+50
+Personalizzare le preferenze
+Come utente A, voglio impostare le mie piattaforme e categorie preferite, così da visualizzare offerte più pertinenti ai miei interessi.
+Altre funzionalità per rendere il progetto più completo
+Se vuoi realizzare un progetto più articolato, puoi aggiungere anche funzionalità relative alla gestione della piattaforma.
+51
+Gestione dei negozi
+Come amministratore, voglio aggiungere, modificare o rimuovere i negozi, così da mantenere aggiornati i rivenditori presenti sulla piattaforma.
+52
+Aggiornamento automatico dei prezzi
+Come sistema, voglio aggiornare periodicamente i prezzi dei giochi, così da mostrare informazioni il più possibile aggiornate.
+53
+Moderazione delle recensioni
+Come amministratore, voglio moderare le recensioni segnalate, così da mantenere la qualità dei contenuti.
+54
+Gestione delle categorie
+Come amministratore, voglio creare e modificare le categorie dei giochi, così da organizzare correttamente il catalogo.
+55
+Gestione degli utenti
+Come amministratore, voglio gestire gli account degli utenti, così da intervenire in caso di violazioni delle regole della piattaforma.
+56
+Gestione delle promozioni
+Come amministratore, voglio creare e gestire promozioni e codici sconto, così da offrire vantaggi agli utenti.
+57
+Segnalazione di prezzi anomali
+Come sistema, voglio rilevare prezzi incoerenti o non aggiornati, così da ridurre la visualizzazione di offerte errate.
+58
+Monitoraggio delle offerte non disponibili
+Come sistema, voglio identificare le offerte scadute o esaurite, così da evitare che vengano mostrate come acquistabili.
