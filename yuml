@@ -1,0 +1,85 @@
+1. Account e navigazione
+text
+
+[Utente]-(Registrarsi)
+[Utente]-(Accedi)
+[Utente]-(Disconnetti)
+[Utente]-(Dimenticare password)
+[Dimenticare password]>(Cambiare password)
+[Utente]-(Reset password)
+[Utente]-(Verificare email)
+[Utente]-(Aprire menu)
+[Utente]-(Selezionare sezione menu)
+[Cliente]-(Gestire profilo)
+[Cliente]-(Accedere tramite account social)
+[Cliente]-(Personalizzare preferenze)
+2. Ricerca giochi e confronto prezzi
+text
+
+[Cliente]-(Cercare giochi)
+[Cliente]-(Cercare prezzi)
+[Cercare prezzi]-(Confrontare prezzi tra negozi)
+[Cercare prezzi]-(Confrontare prezzi d'asta)
+[Cliente]-(Visualizzare storico prezzi)
+[Cliente]-(Visualizzare offerte del giorno)
+[Cliente]-(Classifica top giochi)
+[Cliente]-(Classificare per categoria)
+[Cliente]-(Classificare per prezzo)
+[Cliente]-(Classificare per valutazione)
+[Cliente]-(Filtrare per piattaforma)
+[Cliente]-(Filtrare per negozio)
+[Cliente]-(Verificare compatibilità regionale)
+[Cliente]-(Verificare affidabilità negozio)
+[Cliente]-(Visualizzare tipo venditore)
+[Cliente]-(Visualizzare requisiti di sistema)
+[Cliente]-(Confrontare edizioni)
+[Cliente]-(Visualizzare contenuti inclusi)
+[Cliente]-(Cercare giochi simili)
+[Cliente]-(Visualizzare giochi in uscita)
+3. Acquisti, sconti e abbonamenti
+text
+
+[Cliente]-(Comprare giochi)
+[Cliente]-(Comprare pacchetti random)
+[Cliente]-(Registrare acquisto)
+(Comprare giochi)>(Registrare acquisto)
+(Registrare acquisto)>(Contare acquisti)
+(Contare acquisti)>(Verificare 10 acquisti)
+(Verificare 10 acquisti)>(Applicare sconto)
+[Cliente]-(Acquistare abbonamento)
+[Cliente]-(Ottenere punti)
+[Cliente]-(Utilizzare punti)
+[Cliente]-(Visualizzare cronologia acquisti)
+[Cliente]-(Visualizzare prezzo finale)
+[Cliente]-(Confrontare prezzi con valuta)
+[Abbonato]-(Utilizzare punti per acquistare giochi)
+4. Recensioni, community e notifiche
+text
+
+[Cliente]-(Vedere recensioni)
+[Cliente]-(Scrivere recensioni)
+[Cliente]-(Comparare recensioni)
+[Cliente]-(Gestire recensioni personali)
+[Cliente]-(Condividere gioco)
+[Cliente]-(Leggere notizie)
+[Cliente]-(Creare lista dei desideri)
+[Cliente]-(Impostare prezzo obiettivo)
+[Cliente]-(Ricevere notifiche sui ribassi)
+(Impostare prezzo obiettivo)>(Ricevere notifiche sui ribassi)
+[Cliente]-(Segnalare offerta non valida)
+[Cliente]-(Ricevere newsletter)
+5. Assistenza, amministrazione e sistema
+text
+
+[Cliente]-(Contattare assistenza)
+[Cliente]-(Segnalare problemi acquisto)
+
+[Amministratore]-(Gestire negozi)
+[Amministratore]-(Moderare recensioni)
+[Amministratore]-(Gestire categorie)
+[Amministratore]-(Gestire utenti)
+[Amministratore]-(Gestire promozioni)
+
+[Sistema]-(Aggiornare prezzi automaticamente)
+[Sistema]-(Rilevare prezzi anomali)
+[Sistema]-(Monitorare offerte non disponibili)
