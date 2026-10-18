@@ -1,0 +1,27 @@
+File: `03-acquisti.png`
+
+[Cliente]-(Comprare giochi)
+
+[Cliente]-(Comprare pacchetti random)
+
+[Cliente]-(Visualizzare cronologia acquisti)
+
+[Cliente]-(Visualizzare prezzo finale)
+
+
+
+(Comprare giochi)>(Registrare acquisto)
+
+(Registrare acquisto)>(Contare acquisti)
+
+(Contare acquisti)>(Verificare 10 acquisti)
+
+(Verificare 10 acquisti)>(Applicare sconto)
+
+
+
+[Cliente]-(Acquistare abbonamento)
+
+[Cliente]-(Ottenere punti)
+
+[Abbonato]-(Utilizzare punti per acquistare giochi)

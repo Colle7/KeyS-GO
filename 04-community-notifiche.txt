@@ -1,0 +1,21 @@
+File: `04-community-notifiche.png`
+
+[Cliente]-(Leggere recensioni)
+
+[Cliente]-(Scrivere recensioni)
+
+[Cliente]-(Condividere giochi)
+
+[Cliente]-(Leggere notizie)
+
+
+
+[Cliente]-(Creare lista dei desideri)
+
+[Cliente]-(Impostare prezzo obiettivo)
+
+[Cliente]-(Ricevere notifiche sui ribassi)
+
+
+
+(Impostare prezzo obiettivo)>(Ricevere notifiche sui ribassi)

@@ -1,0 +1,23 @@
+File: `02-ricerca-giochi.png`
+
+[Cliente]-(Cercare giochi)
+
+[Cliente]-(Confrontare prezzi)
+
+[Confrontare prezzi]-(Confrontare negozi)
+
+[Confrontare prezzi]-(Confrontare aste)
+
+
+
+[Cliente]-(Visualizzare storico prezzi)
+
+[Cliente]-(Visualizzare offerte)
+
+[Cliente]-(Filtrare per categoria)
+
+[Cliente]-(Filtrare per prezzo)
+
+[Cliente]-(Filtrare per piattaforma)
+
+[Cliente]-(Verificare affidabilità negozio)

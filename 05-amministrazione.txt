@@ -1,0 +1,23 @@
+File: `05-amministrazione.png`
+
+[Cliente]-(Contattare assistenza)
+
+[Cliente]-(Segnalare problemi acquisto)
+
+
+
+[Amministratore]-(Gestire negozi)
+
+[Amministratore]-(Gestire utenti)
+
+[Amministratore]-(Moderare recensioni)
+
+[Amministratore]-(Gestire promozioni)
+
+
+
+[Sistema]-(Aggiornare prezzi automaticamente)
+
+[Sistema]-(Rilevare prezzi anomali)
+
+[Sistema]-(Monitorare offerte non disponibili)
