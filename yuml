@@ -1,1 +1,10 @@
+![case1](<img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Registrarsi),
+[Utente]-(Accedere),
+[Utente]-(Disconnettersi),
+[Utente]-(Recuperare password),
+[Utente]-(Verificare email),
+[Utente]-(Aprire menu),
+[Cliente]-(Gestire profilo),
+[Cliente]-(Accedere tramite social),
+[Cliente]-(Personalizzare preferenze),">
 
