@@ -1,3 +1,3 @@
-![Diagramma dei casi d'uso](https://yuml.me/diagram/scruffy/usecase/%5BUtente%5D-(Registrarsi),%5BUtente%5D-(Accedere),%5BUtente%5D-(Disconnettersi),%5BUtente%5D-(Recuperare%20password),%5BUtente%5D-(Verificare%20email),%5BUtente%5D-(Aprire%20menu),%5BCliente%5D-(Gestire%20profilo),%5BCliente%5D-(Accedere%20tramite%20social),%5BCliente%5D-(Personalizzare%20preferenze))
+![Dso](https://yuml.me/diagram/scruffy/usecase/%5BUtente%5D-(Registrarsi),%5BUtente%5D-(Accedere),%5BUtente%5D-(Disconnettersi),%5BUtente%5D-(Recuperare%20password),%5BUtente%5D-(Verificare%20email),%5BUtente%5D-(Aprire%20menu),%5BCliente%5D-(Gestire%20profilo),%5BCliente%5D-(Accedere%20tramite%20social),%5BCliente%5D-(Personalizzare%20preferenze))
 
 
