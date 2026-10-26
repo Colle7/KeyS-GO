@@ -22,3 +22,6 @@ logo :
 
 <img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/aa8dd4ff-c8dd-4e94-96ca-e63c7928d281" />
 
+wireframe:
+
+https://miro.com/app/live-embed/uXjVEV4s0GI=/?embedMode=view_only_without_ui&moveToViewport=-109%2C-464%2C2618%2C1288&embedId=149359600208
