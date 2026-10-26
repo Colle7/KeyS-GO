@@ -15,3 +15,10 @@ Keys-go
 
 ![case5](https://yuml.me/diagram/scruffy/usecase/%5BCliente%5D-(Contattare%20assistenza),%5BCliente%5D-(Segnalare%20problemi%20acquisto),%5BAmministratore%5D-(Gestire%20negozi),%5BAmministratore%5D-(Gestire%20utenti),%5BAmministratore%5D-(Moderare%20recensioni),%5BAmministratore%5D-(Gestire%20promozioni),%5BSistema%5D-(Aggiornare%20prezzi%20automaticamente),%5BSistema%5D-(Rilevare%20prezzi%20anomali),%5BSistema%5D-(Monitorare%20offerte%20non%20disponibili))
 
+
+logo :
+
+
+
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/aa8dd4ff-c8dd-4e94-96ca-e63c7928d281" />
+
