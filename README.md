@@ -24,4 +24,4 @@ logo :
 
 wireframe:
 
-https://miro.com/app/live-embed/uXjVEV4s0GI=/?embedMode=view_only_without_ui&moveToViewport=-109%2C-464%2C2618%2C1288&embedId=149359600208
+https://miro.com/app/live-embed/uXjVEV_-mhc=/?embedMode=view_only_without_ui&moveToViewport=-229%2C3640%2C3834%2C1887&embedId=349797253560
