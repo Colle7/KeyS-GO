@@ -3,6 +3,68 @@ Keys-go
 Una piattaforma online che permette agli utenti di cercare, confrontare e acquistare videogiochi digitali al miglior prezzo. Offre la possibilità di confrontare le offerte di diversi negozi, verificare l'affidabilità dei venditori, consultare recensioni e controllare lo storico dei prezzi. Gli utenti possono inoltre creare liste dei desideri, ricevere notifiche sugli sconti, scoprire nuovi giochi e approfittare di promozioni, punti e sconti esclusivi. Tutto questo attraverso un sito semplice e intuitivo, che raccoglie in un unico posto le migliori offerte del mondo videoludico.
 
 
+funzionalita:
+1. Cercare giochi
+2. Confrontare prezzi tra negozi
+3. Visualizzare il prezzo finale
+4. Filtrare per piattaforma
+5. Filtrare per negozio
+6. Classificare per prezzo
+7. Visualizzare le offerte del giorno
+8. Verificare la compatibilità regionale
+9. Verificare l'affidabilità del negozio
+10. Visualizzare il tipo di venditore
+11. Visualizzare i contenuti inclusi
+12. Confrontare le edizioni di un gioco
+13. Visualizzare i requisiti di sistema
+14. Visualizzare lo storico dei prezzi
+15. Creare una lista dei desideri
+16. Impostare un prezzo obiettivo
+17. Ricevere notifiche sui ribassi
+18. Aggiornamento automatico dei prezzi
+19. Monitoraggio delle offerte non disponibili
+20. Registrazione
+21. Gestire il profilo personale
+22. Recuperare la password
+23. Confrontare prezzi con valuta
+24. Classificare per categoria
+25. Classificare per valutazione
+26. Vedere recensioni
+27. Cercare giochi simili
+28. Classifica top giochi
+29. Visualizzare giochi in uscita
+30. Ricevere notifiche sulle nuove uscite
+31. Visualizzare i giochi già posseduti
+32. Visualizzare la cronologia degli acquisti
+33. Comprare giochi
+34. Scrivere recensioni
+35. Comparare recensioni
+36. Gestire le recensioni personali
+37. Segnalare un'offerta non valida
+38. Segnalazione di prezzi anomali
+39. Segnalare problemi con un acquisto
+40. Contattare l'assistenza
+41. Accedere tramite account social
+42. Personalizzare le preferenze
+43. Condividere un gioco
+44. Leggere notizie
+45. Gestione dei negozi
+46. Gestione delle categorie
+47. Gestione degli utenti
+48. Moderazione delle recensioni
+49. Gestione delle promozioni
+50. Abbonamento
+51. Sconto dopo 10 acquisti
+52. Sistema di punti
+53. Utilizzare punti con abbonamento
+54. Ricevere una newsletter
+55. Comparare prezzi d'asta
+56. Comprare pacchetti random
+57. Aprire menu
+58. Selezionare una sezione del menu
+
+requisiti:
+
 
 ![case1](https://yuml.me/diagram/scruffy/usecase/%5BUtente%5D-(Registrarsi),%5BUtente%5D-(Accedere),%5BUtente%5D-(Disconnettersi),%5BUtente%5D-(Recuperare%20password),%5BUtente%5D-(Verificare%20email),%5BUtente%5D-(Aprire%20menu),%5BCliente%5D-(Gestire%20profilo),%5BCliente%5D-(Accedere%20tramite%20social),%5BCliente%5D-(Personalizzare%20preferenze))
 
