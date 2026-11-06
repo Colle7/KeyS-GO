@@ -1,6 +1,6 @@
 Keys-go
 
-
+Una piattaforma online che permette agli utenti di cercare, confrontare e acquistare videogiochi digitali al miglior prezzo. Offre la possibilità di confrontare le offerte di diversi negozi, verificare l'affidabilità dei venditori, consultare recensioni e controllare lo storico dei prezzi. Gli utenti possono inoltre creare liste dei desideri, ricevere notifiche sugli sconti, scoprire nuovi giochi e approfittare di promozioni, punti e sconti esclusivi. Tutto questo attraverso un sito semplice e intuitivo, che raccoglie in un unico posto le migliori offerte del mondo videoludico.
 
 
 
