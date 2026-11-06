@@ -63,7 +63,168 @@ funzionalita:
 57. Aprire menu
 58. Selezionare una sezione del menu
 
-requisiti:
+Requisiti funzionali
+
+Cercare videogiochi
+
+Confrontare i prezzi dei giochi tra diversi negozi
+
+Visualizzare il prezzo finale di un gioco
+
+Filtrare i giochi per piattaforma
+
+Filtrare i giochi per negozio
+
+Ordinare i giochi in base al prezzo
+
+Visualizzare le offerte del giorno
+
+Verificare la compatibilità regionale dei giochi
+
+Verificare l'affidabilità dei negozi
+
+Visualizzare il tipo di venditore
+
+Visualizzare i contenuti inclusi in un gioco
+
+Confrontare le diverse edizioni di un gioco
+
+Visualizzare i requisiti di sistema dei giochi
+
+Visualizzare lo storico dei prezzi
+
+Creare e gestire una lista dei desideri
+
+Impostare un prezzo obiettivo per un gioco
+
+Ricevere notifiche quando il prezzo di un gioco diminuisce
+
+Aggiornare automaticamente i prezzi dei giochi
+
+Monitorare le offerte temporaneamente non disponibili
+
+Registrarsi alla piattaforma
+
+Gestire il proprio profilo personale
+
+Recuperare la password dimenticata
+
+Confrontare i prezzi utilizzando diverse valute
+
+Classificare i giochi per categoria
+
+Classificare i giochi in base alla valutazione
+
+Visualizzare le recensioni degli utenti
+
+Cercare giochi simili
+
+Visualizzare la classifica dei giochi più popolari
+
+Visualizzare i giochi in uscita
+
+Ricevere notifiche sulle nuove uscite
+
+Visualizzare i giochi già posseduti
+
+Consultare la cronologia degli acquisti
+
+Acquistare videogiochi
+
+Scrivere recensioni sui giochi
+
+Confrontare le recensioni
+
+Modificare ed eliminare le proprie recensioni
+
+Segnalare un'offerta non valida
+
+Segnalare prezzi anomali
+
+Segnalare problemi relativi a un acquisto
+
+Contattare il servizio di assistenza
+
+Accedere tramite account social
+
+Personalizzare le proprie preferenze
+
+Condividere un gioco con altri utenti
+
+Leggere notizie sul mondo dei videogiochi
+
+Gestire i negozi presenti sulla piattaforma
+
+Gestire le categorie dei giochi
+
+Gestire gli utenti registrati
+
+Moderare le recensioni degli utenti
+
+Gestire le promozioni e le offerte
+
+Acquistare e gestire un abbonamento
+
+Ricevere un gioco gratuito dopo aver effettuato 10 acquisti
+
+Accumulare punti attraverso gli acquisti
+
+Utilizzare i punti per acquistare altri giochi solo con un abbonamento attivo
+
+Ricevere una newsletter
+
+Partecipare alle aste e confrontare i prezzi dei giochi
+
+Acquistare pacchetti casuali di giochi
+
+Aprire il menu principale
+
+Selezionare una sezione del menu
+
+Requisiti non funzionali
+
+Il sito deve essere facile e intuitivo da utilizzare.
+
+Le pagine devono caricarsi in meno di 2 secondi.
+
+I dati personali degli utenti devono essere protetti.
+
+Il sito deve essere disponibile 24 ore su 24.
+
+Il sito deve funzionare correttamente sia da PC che da smartphone.
+
+Il sistema deve garantire la sicurezza delle transazioni.
+
+Il sito deve essere compatibile con i principali browser.
+
+Il sistema deve essere in grado di gestire numerosi utenti contemporaneamente.
+
+Gli aggiornamenti dei prezzi devono essere effettuati in modo affidabile.
+
+Le notifiche devono essere inviate correttamente e tempestivamente.
+
+Requisiti di dominio
+
+L'abbonamento permette di ottenere sconti maggiori sugli acquisti.
+
+Dopo 10 acquisti di giochi, l'utente ha diritto a un gioco gratuito.
+
+Ogni acquisto permette di accumulare punti.
+
+I punti possono essere utilizzati per acquistare altri giochi solamente dagli utenti con un abbonamento attivo.
+
+La piattaforma deve rispettare le normative sulla privacy e sulla protezione dei dati personali.
+
+I giochi possono avere limitazioni regionali in base al Paese di acquisto e di utilizzo.
+
+I prezzi dei giochi possono variare in base al negozio, alla piattaforma e alla valuta.
+
+Le recensioni devono rispettare le regole della piattaforma.
+
+Le offerte e i prezzi devono essere verificati per evitare informazioni errate o ingannevoli.
+
+Le aste devono rispettare le regole stabilite dalla piattaforma.
+
 
 
 ![case1](https://yuml.me/diagram/scruffy/usecase/%5BUtente%5D-(Registrarsi),%5BUtente%5D-(Accedere),%5BUtente%5D-(Disconnettersi),%5BUtente%5D-(Recuperare%20password),%5BUtente%5D-(Verificare%20email),%5BUtente%5D-(Aprire%20menu),%5BCliente%5D-(Gestire%20profilo),%5BCliente%5D-(Accedere%20tramite%20social),%5BCliente%5D-(Personalizzare%20preferenze))
