@@ -287,6 +287,48 @@ USER STORY :
 57	Aprire menu	Come utente, voglio aprire il menu principale, così da visualizzare le sezioni disponibili sulla piattaforma.
 58	Selezionare una sezione del menu	Come utente, voglio selezionare una sezione del menu, così da accedere rapidamente alla funzionalità desiderata.
 
+
+Analisi SWOT
+Punti di forza
+- Possibilità di acquistare videogiochi a prezzi convenienti.
+- Rivolgersi a utenti che desiderano acquistare videogiochi ma hanno un budget limitato.
+- Piattaforma multifunzionale, semplice e intuitiva.
+- Riunire in un unico sito le offerte provenienti da diversi negozi.
+- Permettere di confrontare numerose offerte e scegliere quella più conveniente.
+- Risparmiare tempo nella ricerca dei prezzi migliori.
+- Offrire funzionalità aggiuntive come recensioni, storico dei prezzi e notifiche sugli sconti.
+- Possibilità di accumulare punti e ottenere vantaggi attraverso gli acquisti.
+Punti di debolezza
+- Mancanza di risorse economiche e finanziarie.
+- Piattaforma poco conosciuta e con pochi utenti iniziali.
+- Assenza di sponsor e partnership commerciali.
+- Difficoltà nel conquistare la fiducia dei nuovi utenti.
+- La qualità dei prodotti e dei servizi dipende anche dai negozi esterni.
+- Possibilità di truffe o problemi causati da venditori poco affidabili.
+- Dipendenza dai dati e dagli aggiornamenti dei prezzi forniti dai negozi.
+- Difficoltà nel competere con piattaforme già affermate.
+opportunità
+- Mercato dei videogiochi digitale dinamico e in continua evoluzione.
+- Presenza di una domanda da parte degli utenti interessati a risparmiare sugli acquisti.
+- Crescente interesse verso le offerte e il confronto dei prezzi online.
+- Possibilità di collaborare con negozi digitali e rivenditori di videogiochi.
+- Possibilità di espandersi in altri Paesi e raggiungere nuovi utenti.
+- Creazione di partnership con influencer e creator del settore gaming.
+- Possibilità di introdurre nuove funzionalità e servizi per distinguersi dai concorrenti.
+- Sviluppo di applicazioni per smartphone.
+Minacce
+- Presenza di concorrenti più famosi, conosciuti e con maggiori risorse economiche.
+- Elevata concorrenza nel mercato del confronto dei prezzi.
+- Leggi e normative che potrebbero limitare alcune attività commerciali.
+- Possibili controversie legali con grandi editori di videogiochi, come Sony ed EA, riguardo alla distribuzione e alla rivendita di chiavi digitali.
+- Cambiamenti nelle politiche dei negozi e dei distributori digitali.
+- Rischio di attacchi informatici e furto dei dati degli utenti.
+- Perdita di fiducia da parte degli utenti in caso di truffe o offerte non valide.
+- Possibilità che i concorrenti introducano funzionalità simili o migliori.
+
+
+
+
 ![case1](https://yuml.me/diagram/scruffy/usecase/%5BUtente%5D-(Registrarsi),%5BUtente%5D-(Accedere),%5BUtente%5D-(Disconnettersi),%5BUtente%5D-(Recuperare%20password),%5BUtente%5D-(Verificare%20email),%5BUtente%5D-(Aprire%20menu),%5BCliente%5D-(Gestire%20profilo),%5BCliente%5D-(Accedere%20tramite%20social),%5BCliente%5D-(Personalizzare%20preferenze))
 
 ![case2](https://yuml.me/diagram/scruffy/usecase/%5BCliente%5D-(Cercare%20giochi),%5BCliente%5D-(Confrontare%20prezzi%20dei%20negozi),%5BCliente%5D-(Visualizzare%20storico%20prezzi),%5BCliente%5D-(Visualizzare%20offerte),%5BCliente%5D-(Filtrare%20per%20categoria),%5BCliente%5D-(Filtrare%20per%20prezzo),%5BCliente%5D-(Filtrare%20per%20piattaforma),%5BCliente%5D-(Verificare%20affidabilit%C3%A0%20negozio))
